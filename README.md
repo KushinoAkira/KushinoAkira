@@ -15,10 +15,7 @@
 
 <h3 align="center">Let's Connect and have a Chat! 💬</h3>
 <p align="center">
-  <a href="https://your-portfolio-link.site" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="portfolio" height="40" width="40" /></a>
   <a href="https://linkedin.com/in/your-linkedin-username" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
-  <a href="https://dev.to/your-dev-username" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="40" width="40" /></a>
-  <a href="https://twitter.com/your-twitter-username" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" /></a>
   <a href="https://instagram.com/your-instagram-username" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
 </p>
 
