@@ -31,11 +31,9 @@
 
 <h3 align="left">👨‍💻 About Me:</h3>
 
-- 🔭 I’m currently working on **[Thêm tên Project/Công ty của bạn ở đây]**
-- 🌱 I’m currently learning **[Thêm công nghệ đang học, ví dụ: AI/ML, DevOps...]**
-- 👯 I’m looking to collaborate on **[Thêm dự án open-source bạn muốn tham gia]**
-- 📫 How to reach me: **[Thêm Email của bạn]**
-- ⚡ Fun fact: **[Thêm sở thích của bạn]**
+- 🌱 I’m currently learning **Software Engineering**
+- 📫 How to reach me: **[duyhieunguyen2672004@gmail.com](mailto:duyhieunguyen2672004@gmail.com)**
+- ⚡ Fun fact: **Đọc sách, xem anime, nghe nhạc, xem phim**
 
 <hr>
 
