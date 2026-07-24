@@ -80,8 +80,8 @@
 <h3 align="left">📈 My GitHub History!</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KushinoAkira&show_icons=true&theme=tokyonight" alt="KushinoAkira's GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushinoAkira&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KushinoAkira&show_icons=true&theme=tokyonight" alt="KushinoAkira's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KushinoAkira&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
 </p>
 
 <p align="center">
