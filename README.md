@@ -78,7 +78,7 @@
 <h3 align="left">📈 My GitHub History!</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KushinoAkira&show_icons=true&theme=tokyonight&include_all_commits=true" alt="KushinoAkira's GitHub Stats" height="165" /><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KushinoAkira&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-deploy.vercel.app/api?username=KushinoAkira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="KushinoAkira's GitHub Stats" height="165" /><img src="https://github-readme-stats-deploy.vercel.app/api/top-langs/?username=KushinoAkira&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
