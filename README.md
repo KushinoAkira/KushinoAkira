@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 - 📫 How to reach me: **[duyhieunguyen2672004@gmail.com](mailto:duyhieunguyen2672004@gmail.com)**
-- ⚡ Fun fact: **Đọc sách, xem anime, nghe nhạc, xem phim**
+- ⚡ Fun fact: **Reading, watching anime, listening to music, watching movies, photography**
 
 <hr>
 
